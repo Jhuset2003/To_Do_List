@@ -24,7 +24,7 @@ export default function RecordList() {
 
   useEffect(() => {
     async function getRecords() {
-      const response = await fetch(`http://localhost:5000/record/`);
+      const response = await fetch(`https://mern-start2.herokuapp.com/record`,);
 
       if (!response.ok) {
         const message = `An error occured: ${response.statusText}`;
@@ -43,8 +43,8 @@ export default function RecordList() {
 
   
   async function deleteRecord(id) {
-    await fetch(`http://localhost:5000/${id}`, {
-      method: "DELETE"
+    await fetch(`https://mern-start2.herokuapp.com/${id}`, {
+     method: "DELETE"
     });
 
     const newRecords = records.filter((el) => el._id !== id);
