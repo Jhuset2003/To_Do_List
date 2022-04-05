@@ -1,4 +1,4 @@
-# todo list MERN
+# ToDo List
 
 ---
 ![ToDoList_Mern](./img/TodoListMERN.png  "MERN")
@@ -52,13 +52,9 @@ npm start
 
 #### Deploy:
 
-## [todolist MERN (FRONTEND) HEROKU](https://todofrond.herokuapp.com/)
+## [todolist MERN (FRONTEND) HEROKU](https://app-client-2.herokuapp.com/edit/624b496314f85b043d3553b3)
 ___
-## [todolist MERN (BACKEND) HEROKU](https://todonodjs.herokuapp.com/)
-
----
-
-## [GIT MERN (FRONTED/BACKEND) GITHUB](https://github.com/dariohimo/todolistmern)
+## [GIT MERN (FRONTED/BACKEND) GITHUB](https://github.com/Jhuset2003/To_Do_List)
 
 ___
 ```
@@ -74,9 +70,9 @@ ___
 ____
 ```
 ```
-## [Darío Higuera Moreno](https://github.com/dariohimo)
+## [Albert Quintanilla](https://github.com/Jhuset2003)
 ---
-&copy; Abril 03 de 2022
+&copy; Abril 05 de 2022
 
 ---
 
