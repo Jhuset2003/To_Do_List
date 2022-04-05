@@ -9,11 +9,7 @@
 
 ---
 
-![Actualizar](./img/actualizar.png   "Actualizar")
-
----
-
-![Actualizar](./img/eliminarEditar.png   "Actualizar")
+![editar](./img/editar.png   "editar")
 
 ---
 
