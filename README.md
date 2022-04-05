@@ -64,8 +64,6 @@ ___
 
 ---
 ____
-```
-```
 ## [Albert Quintanilla](https://github.com/Jhuset2003)
 ---
 &copy; Abril 05 de 2022
